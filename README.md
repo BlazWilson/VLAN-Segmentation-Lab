@@ -1,4 +1,4 @@
-# VLAN-Segmentation-Lab
+# VLAN-Segmentation-Lab (Inter routing, trunking firewall access rules)
 
 Overview
 
