@@ -7,7 +7,8 @@ This lab demonstrates the design, implementation, and troubleshooting of a small
 This project intentionally started simple and evolved through troubleshooting, which resulted in a deeper understanding of VLANs, routing, and firewall behavior.
 
 Network Design
-Image
+<img width="898" height="325" alt="image" src="https://github.com/user-attachments/assets/0d930c4b-4c29-4d51-9f53-a4c2cf40fb4c" />
+
 
 Departments
 
